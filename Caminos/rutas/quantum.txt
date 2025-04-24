@@ -1,0 +1,264 @@
+=== ITERACION 1 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0018478000420145690441132 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 1:
+Nodos en el camino �ptimo: [0, 128, 107, 136, 9, 62, 9, 36, 24, 118, 59, 97, 85, 1, 58, 26, 46, 64, 48, 86, 71, 9, 70, 9, 136, 107, 1, 117, 41, 117, 1, 65, 34, 4, 9, 76, 14, 76, 9, 136]
+Suma de los costes del camino �ptimo: 69
+Total de aristas recorridas por Dijkstra: 39
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 137 nodos y 413 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.256146
+Factores cu�nticos finales: [array(-0.44080053), array(-0.44026711), array(-0.43947948), array(-0.44151363)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 16.769 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0016151000163517892360687 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 1:
+Nodos en el camino �ptimo: [0, 128, 107, 136, 9, 62, 9, 70, 69, 52, 118, 59, 97, 85, 1, 58, 26, 46, 64, 46, 129, 4, 9, 71, 86, 71, 9, 70, 9, 136, 107, 1, 117, 41, 117, 1, 65, 34, 4, 9, 76, 14, 76, 9, 136]
+Suma de los costes del camino �ptimo: 69
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 44
+
+=== ITERACION 2 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0030254999874159693717957 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 2:
+Nodos en el camino �ptimo: [0, 26, 91, 96, 128, 96, 77, 71, 85, 64, 43, 38, 28, 104, 19, 43, 101, 43, 41, 77, 103, 95, 88, 20, 88, 122, 39, 80, 39, 70, 39, 42, 49, 14, 49, 42, 12, 38, 43, 64, 128]
+Suma de los costes del camino �ptimo: 72
+Total de aristas recorridas por Dijkstra: 40
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 129 nodos y 400 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.155107
+Factores cu�nticos finales: [array(-0.46566459), array(-0.46657434), array(-0.46126745), array(0.46374545)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 15.975 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0017381999641656875610352 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 2:
+Nodos en el camino �ptimo: [0, 26, 91, 96, 128, 96, 77, 71, 85, 64, 43, 19, 104, 19, 43, 101, 43, 41, 77, 103, 95, 88, 20, 88, 122, 39, 80, 39, 70, 39, 42, 49, 14, 49, 42, 12, 38, 43, 64, 128]
+Suma de los costes del camino �ptimo: 72
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 39
+
+=== ITERACION 3 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0018026999896392226219177 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 3:
+Nodos en el camino �ptimo: [0, 108, 69, 6, 105, 79, 128, 79, 18, 64, 18, 86, 127, 115, 80, 92, 96, 121, 100, 121, 75, 113, 98, 20, 29, 81, 83, 119, 17, 15, 19, 15, 118, 33, 1, 109, 1, 65, 79, 128]
+Suma de los costes del camino �ptimo: 82
+Total de aristas recorridas por Dijkstra: 39
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 129 nodos y 383 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.921118
+Factores cu�nticos finales: [array(0.30582842), array(0.31310778), array(-0.30703212), array(-0.31179126)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 15.297 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0019845000351779162883759 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 3:
+Nodos en el camino �ptimo: [0, 108, 69, 6, 105, 79, 128, 79, 18, 64, 67, 122, 71, 108, 92, 80, 92, 96, 121, 100, 121, 75, 113, 98, 20, 29, 81, 83, 119, 17, 15, 19, 15, 118, 33, 1, 109, 1, 65, 79, 128]
+Suma de los costes del camino �ptimo: 82
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 40
+
+=== ITERACION 4 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0016156000201590359210968 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 4:
+Nodos en el camino �ptimo: [0, 97, 39, 62, 133, 110, 91, 43, 88, 43, 91, 47, 130, 2, 17, 69, 99, 57, 50, 57, 41, 57, 94, 5, 66, 86, 90, 15, 8, 113, 56, 49, 10, 120, 10, 34, 19, 131, 62, 133]
+Suma de los costes del camino �ptimo: 75
+Total de aristas recorridas por Dijkstra: 39
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 134 nodos y 397 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.597394
+Factores cu�nticos finales: [array(0.45628696), array(-0.45755991), array(0.4570144), array(-0.46017321)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 15.910 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0023617999977432191371918 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 4:
+Nodos en el camino �ptimo: [0, 97, 39, 62, 133, 110, 91, 43, 88, 43, 91, 47, 130, 2, 17, 69, 99, 57, 50, 57, 41, 57, 94, 5, 66, 86, 90, 15, 8, 113, 56, 49, 10, 120, 10, 34, 19, 131, 62, 133]
+Suma de los costes del camino �ptimo: 75
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 39
+
+=== ITERACION 5 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0025562000228092074394226 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 5:
+Nodos en el camino �ptimo: [0, 28, 75, 53, 109, 138, 109, 53, 75, 76, 10, 43, 106, 13, 4, 57, 97, 80, 82, 58, 46, 71, 9, 71, 44, 61, 40, 27, 15, 64, 60, 71, 46, 101, 87, 116, 106, 110, 92, 110, 28, 18, 98, 85, 108, 93, 135, 77, 75, 53, 109, 138]
+Suma de los costes del camino �ptimo: 87
+Total de aristas recorridas por Dijkstra: 51
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 139 nodos y 420 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.916745
+Factores cu�nticos finales: [array(0.31262489), array(0.30697297), array(-0.30797544), array(0.31012111)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 16.724 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0025103000225499272346497 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 5:
+Nodos en el camino �ptimo: [0, 28, 75, 53, 109, 138, 109, 53, 75, 49, 76, 10, 43, 106, 13, 4, 57, 97, 80, 82, 58, 46, 71, 9, 71, 44, 61, 40, 27, 15, 64, 60, 71, 46, 101, 87, 116, 106, 110, 92, 110, 106, 13, 4, 14, 18, 98, 85, 108, 93, 135, 77, 75, 53, 109, 138]
+Suma de los costes del camino �ptimo: 87
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 55
+
+=== ITERACION 6 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0022292000357992947101593 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 6:
+Nodos en el camino �ptimo: [0, 34, 131, 51, 128, 105, 128, 12, 87, 89, 119, 42, 119, 89, 97, 18, 127, 121, 68, 63, 68, 65, 66, 97, 89, 70, 126, 112, 6, 41, 69, 41, 60, 88, 83, 75, 83, 34, 107, 55, 129, 55, 107, 34, 131]
+Suma de los costes del camino �ptimo: 74
+Total de aristas recorridas por Dijkstra: 44
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 132 nodos y 394 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.795001
+Factores cu�nticos finales: [array(-0.3862486), array(0.38981612), array(0.39417704), array(0.39052895)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 16.268 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0017575999954715371131897 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 6:
+Nodos en el camino �ptimo: [0, 34, 131, 51, 128, 105, 128, 12, 87, 89, 119, 42, 119, 80, 18, 127, 121, 68, 63, 68, 65, 66, 97, 89, 70, 126, 112, 17, 40, 6, 41, 69, 41, 60, 88, 83, 75, 83, 34, 107, 55, 129, 55, 107, 34, 131]
+Suma de los costes del camino �ptimo: 74
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 45
+
+=== ITERACION 7 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0028099000337533652782440 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 7:
+Nodos en el camino �ptimo: [0, 139, 133, 114, 27, 6, 146, 6, 27, 63, 3, 8, 98, 8, 15, 37, 110, 121, 67, 127, 16, 52, 141, 116, 62, 116, 11, 132, 142, 38, 142, 3, 8, 91, 11, 61, 21, 27, 6, 32, 137, 70, 76, 112, 14, 99, 30, 99, 14, 60, 101, 146]
+Suma de los costes del camino �ptimo: 86
+Total de aristas recorridas por Dijkstra: 51
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 147 nodos y 433 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 2.330996
+Factores cu�nticos finales: [array(-0.25533177), array(0.2592186), array(0.26437878), array(0.26175654)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 17.326 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0025722999707795679569244 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 7:
+Nodos en el camino �ptimo: [0, 139, 133, 114, 27, 6, 146, 6, 27, 63, 3, 8, 98, 8, 15, 37, 51, 79, 35, 121, 67, 127, 16, 52, 141, 116, 62, 116, 11, 132, 142, 38, 142, 3, 8, 91, 11, 61, 21, 27, 6, 32, 137, 70, 76, 70, 137, 32, 60, 14, 99, 30, 99, 14, 60, 32, 6, 146]
+Suma de los costes del camino �ptimo: 86
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 57
+
+=== ITERACION 8 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0024399999529123306274414 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 8:
+Nodos en el camino �ptimo: [0, 89, 113, 2, 74, 82, 74, 2, 75, 2, 96, 93, 96, 15, 8, 104, 8, 15, 110, 23, 71, 29, 82, 74, 2, 75, 72, 56, 72, 75, 2, 74, 2, 113]
+Suma de los costes del camino �ptimo: 65
+Total de aristas recorridas por Dijkstra: 33
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 114 nodos y 342 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 2.025436
+Factores cu�nticos finales: [array(0.2888799), array(0.2928658), array(-0.28639947), array(-0.2911876)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 13.835 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0011345000239089131355286 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 8:
+Nodos en el camino �ptimo: [0, 89, 113, 2, 74, 82, 74, 2, 75, 2, 96, 93, 96, 15, 8, 104, 8, 15, 110, 23, 110, 14, 74, 82, 74, 2, 75, 72, 56, 72, 75, 2, 74, 2, 113]
+Suma de los costes del camino �ptimo: 65
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 34
+
+=== ITERACION 9 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0024632000131532549858093 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 9:
+Nodos en el camino �ptimo: [0, 85, 142, 149, 7, 51, 95, 47, 95, 5, 68, 94, 146, 94, 68, 100, 128, 92, 27, 72, 47, 19, 90, 109, 90, 19, 47, 95, 51, 7, 40, 136, 8, 28, 8, 136, 40, 9, 147, 32, 34, 73, 131, 46, 136, 122, 107, 122, 136, 40, 7, 149]
+Suma de los costes del camino �ptimo: 84
+Total de aristas recorridas por Dijkstra: 51
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 150 nodos y 439 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 1.041630
+Factores cu�nticos finales: [array(-0.49131253), array(-0.49139231), array(0.49104517), array(-0.48904323)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 17.527 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0022380000445991754531860 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 9:
+Nodos en el camino �ptimo: [0, 85, 142, 149, 7, 51, 95, 47, 95, 5, 68, 94, 146, 94, 68, 100, 128, 92, 27, 72, 47, 19, 90, 109, 90, 19, 47, 95, 51, 7, 40, 136, 8, 28, 8, 136, 40, 9, 147, 32, 34, 73, 131, 46, 136, 122, 107, 122, 136, 40, 7, 149]
+Suma de los costes del camino �ptimo: 84
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 51
+
+=== ITERACION 10 ===
+------------------------------------
+
+Tiempo de ejecuci�n de Dijkstra: 0.0014851000159978866577148 segundos
+
+Resultados de la optimizaci�n cl�sica (Dijkstra) para grafo 10:
+Nodos en el camino �ptimo: [0, 48, 71, 101, 24, 86, 100, 55, 60, 1, 68, 66, 4, 100, 64, 21, 9, 81, 86, 24, 16, 33, 45, 30, 55, 60, 57, 94, 27, 31, 27, 21, 2, 21, 9, 77, 28, 86, 24, 101]
+Suma de los costes del camino �ptimo: 78
+Total de aristas recorridas por Dijkstra: 39
+
+=== INICIO DE LA OPTIMIZACI�N CU�NTICA ===
+Procesando el grafo con 102 nodos y 314 aristas.
+N�mero total de par�metros: 40
+Mejor costo encontrado: 0.759383
+Factores cu�nticos finales: [array(-0.56766093), array(-0.56384339), array(0.56849877), array(0.56428283)]
+
+Tiempo de ejecuci�n de la Modificaci�n Cu�ntica: 12.824 segundos
+
+Tiempo de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0017007999704219400882721 segundos
+
+Resultados de la optimizaci�n cu�ntica para grafo 10:
+Nodos en el camino �ptimo: [0, 48, 71, 101, 24, 86, 100, 55, 60, 1, 68, 66, 4, 100, 64, 21, 9, 81, 86, 24, 16, 33, 45, 30, 55, 60, 57, 94, 27, 31, 27, 21, 2, 21, 9, 77, 28, 57, 5, 101]
+Suma de los costes del camino �ptimo: 78
+Total de aristas recorridas por la Optimizaci�n Cu�ntica: 39
+
+Tiempo promedio de ejecuci�n de Dijkstra: 0.0022275200113654135790353 segundos
+Tiempo promedio de ejecuci�n de la Optimizaci�n Cu�ntica: 0.0019613100041169671469699 segundos
+
+Diferencias en los costes totales:
+Iteraci�n 1: Diferencia = 0.000000
+Iteraci�n 2: Diferencia = 0.000000
+Iteraci�n 3: Diferencia = 0.000000
+Iteraci�n 4: Diferencia = 0.000000
+Iteraci�n 5: Diferencia = 0.000000
+Iteraci�n 6: Diferencia = 0.000000
+Iteraci�n 7: Diferencia = 0.000000
+Iteraci�n 8: Diferencia = 0.000000
+Iteraci�n 9: Diferencia = 0.000000
+Iteraci�n 10: Diferencia = 0.000000

@@ -1,0 +1,130 @@
+Usando dispositivo: cuda
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+No se encontr� un modelo guardado. Entrenando un nuevo modelo...
+Accuracy: 0.48333333333333334
+Training the model...
+Epoch: 1
+Iteration: 1, Loss: 41.5247, Time: 30.26s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.050000
+Iteration: 2, Loss: 41.7809, Time: 27.75s, Accuracy Train: 0.52, Accuracy Test: 0.48,LearningRate: 0.050000
+Iteration: 3, Loss: 41.8456, Time: 27.49s, Accuracy Train: 0.52, Accuracy Test: 0.47,LearningRate: 0.050000
+Iteration: 4, Loss: 41.8759, Time: 27.51s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.050000
+Iteration: 5, Loss: 41.5885, Time: 27.53s, Accuracy Train: 0.48, Accuracy Test: 0.50,LearningRate: 0.050000
+Iteration: 6, Loss: 41.6169, Time: 28.09s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.050000
+Iteration: 7, Loss: 41.8170, Time: 27.87s, Accuracy Train: 0.48, Accuracy Test: 0.48,LearningRate: 0.050000
+Iteration: 8, Loss: 41.7335, Time: 27.64s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.025000
+Iteration: 9, Loss: 41.6900, Time: 27.92s, Accuracy Train: 0.48, Accuracy Test: 0.48,LearningRate: 0.025000
+Iteration: 10, Loss: 41.8123, Time: 28.83s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.025000
+Epoch time: 280.94 seconds
+Epoch: 2
+Iteration: 1, Loss: 41.6894, Time: 29.86s, Accuracy Train: 0.48, Accuracy Test: 0.48,LearningRate: 0.025000
+Iteration: 2, Loss: 41.6004, Time: 28.98s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.025000
+Iteration: 3, Loss: 41.7329, Time: 27.65s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.025000
+Iteration: 4, Loss: 41.6035, Time: 27.64s, Accuracy Train: 0.47, Accuracy Test: 0.48,LearningRate: 0.012500
+Iteration: 5, Loss: 41.8232, Time: 27.88s, Accuracy Train: 0.50, Accuracy Test: 0.42,LearningRate: 0.012500
+Iteration: 6, Loss: 41.7959, Time: 27.70s, Accuracy Train: 0.52, Accuracy Test: 0.45,LearningRate: 0.012500
+Iteration: 7, Loss: 41.5793, Time: 27.76s, Accuracy Train: 0.52, Accuracy Test: 0.50,LearningRate: 0.012500
+Iteration: 8, Loss: 41.4541, Time: 28.42s, Accuracy Train: 0.50, Accuracy Test: 0.43,LearningRate: 0.012500
+Iteration: 9, Loss: 41.6314, Time: 28.45s, Accuracy Train: 0.47, Accuracy Test: 0.47,LearningRate: 0.012500
+Iteration: 10, Loss: 41.8692, Time: 27.78s, Accuracy Train: 0.48, Accuracy Test: 0.50,LearningRate: 0.012500
+Epoch time: 282.13 seconds
+Epoch: 3
+Iteration: 1, Loss: 41.8283, Time: 27.59s, Accuracy Train: 0.48, Accuracy Test: 0.47,LearningRate: 0.012500
+Iteration: 2, Loss: 41.6675, Time: 28.31s, Accuracy Train: 0.52, Accuracy Test: 0.47,LearningRate: 0.012500
+Iteration: 3, Loss: 41.9991, Time: 27.62s, Accuracy Train: 0.47, Accuracy Test: 0.52,LearningRate: 0.012500
+Iteration: 4, Loss: 41.6775, Time: 27.61s, Accuracy Train: 0.48, Accuracy Test: 0.50,LearningRate: 0.012500
+Iteration: 5, Loss: 41.5645, Time: 27.65s, Accuracy Train: 0.43, Accuracy Test: 0.47,LearningRate: 0.006250
+Iteration: 6, Loss: 41.7855, Time: 27.91s, Accuracy Train: 0.52, Accuracy Test: 0.48,LearningRate: 0.006250
+Iteration: 7, Loss: 41.6414, Time: 29.00s, Accuracy Train: 0.50, Accuracy Test: 0.43,LearningRate: 0.006250
+Iteration: 8, Loss: 41.9219, Time: 28.96s, Accuracy Train: 0.45, Accuracy Test: 0.43,LearningRate: 0.006250
+Iteration: 9, Loss: 41.7688, Time: 29.06s, Accuracy Train: 0.43, Accuracy Test: 0.48,LearningRate: 0.006250
+Iteration: 10, Loss: 41.5684, Time: 28.72s, Accuracy Train: 0.55, Accuracy Test: 0.47,LearningRate: 0.006250
+Epoch time: 282.46 seconds
+Epoch: 4
+Iteration: 1, Loss: 41.7161, Time: 27.77s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.003125
+Iteration: 2, Loss: 41.6210, Time: 27.75s, Accuracy Train: 0.50, Accuracy Test: 0.43,LearningRate: 0.003125
+Iteration: 3, Loss: 41.6238, Time: 27.46s, Accuracy Train: 0.45, Accuracy Test: 0.42,LearningRate: 0.003125
+Iteration: 4, Loss: 41.7201, Time: 27.49s, Accuracy Train: 0.53, Accuracy Test: 0.47,LearningRate: 0.003125
+Iteration: 5, Loss: 41.6962, Time: 28.12s, Accuracy Train: 0.52, Accuracy Test: 0.50,LearningRate: 0.003125
+Iteration: 6, Loss: 41.4340, Time: 27.43s, Accuracy Train: 0.55, Accuracy Test: 0.48,LearningRate: 0.003125
+Iteration: 7, Loss: 41.6435, Time: 27.39s, Accuracy Train: 0.52, Accuracy Test: 0.47,LearningRate: 0.003125
+Iteration: 8, Loss: 41.7526, Time: 27.44s, Accuracy Train: 0.52, Accuracy Test: 0.48,LearningRate: 0.003125
+Iteration: 9, Loss: 41.6019, Time: 27.90s, Accuracy Train: 0.47, Accuracy Test: 0.45,LearningRate: 0.003125
+Iteration: 10, Loss: 41.6268, Time: 27.44s, Accuracy Train: 0.45, Accuracy Test: 0.47,LearningRate: 0.003125
+Epoch time: 276.18 seconds
+Epoch: 5
+Iteration: 1, Loss: 41.5905, Time: 27.52s, Accuracy Train: 0.52, Accuracy Test: 0.47,LearningRate: 0.003125
+Iteration: 2, Loss: 41.7478, Time: 27.44s, Accuracy Train: 0.48, Accuracy Test: 0.43,LearningRate: 0.003125
+Iteration: 3, Loss: 41.6485, Time: 27.65s, Accuracy Train: 0.55, Accuracy Test: 0.45,LearningRate: 0.001563
+Iteration: 4, Loss: 41.9060, Time: 27.67s, Accuracy Train: 0.47, Accuracy Test: 0.48,LearningRate: 0.001563
+Iteration: 5, Loss: 41.6238, Time: 27.35s, Accuracy Train: 0.47, Accuracy Test: 0.45,LearningRate: 0.001563
+Iteration: 6, Loss: 41.7910, Time: 27.45s, Accuracy Train: 0.52, Accuracy Test: 0.52,LearningRate: 0.001563
+Iteration: 7, Loss: 41.4371, Time: 27.38s, Accuracy Train: 0.48, Accuracy Test: 0.52,LearningRate: 0.001563
+Iteration: 8, Loss: 41.6780, Time: 27.56s, Accuracy Train: 0.47, Accuracy Test: 0.42,LearningRate: 0.001563
+Iteration: 9, Loss: 41.6150, Time: 27.44s, Accuracy Train: 0.52, Accuracy Test: 0.45,LearningRate: 0.000781
+Iteration: 10, Loss: 41.6989, Time: 27.49s, Accuracy Train: 0.50, Accuracy Test: 0.43,LearningRate: 0.000781
+Epoch time: 274.96 seconds
+Epoch: 6
+Iteration: 1, Loss: 41.5974, Time: 27.49s, Accuracy Train: 0.48, Accuracy Test: 0.47,LearningRate: 0.000781
+Iteration: 2, Loss: 41.6414, Time: 27.69s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.000781
+Iteration: 3, Loss: 41.7137, Time: 27.40s, Accuracy Train: 0.55, Accuracy Test: 0.50,LearningRate: 0.000781
+Iteration: 4, Loss: 41.5703, Time: 27.43s, Accuracy Train: 0.47, Accuracy Test: 0.52,LearningRate: 0.000781
+Iteration: 5, Loss: 41.8365, Time: 27.51s, Accuracy Train: 0.53, Accuracy Test: 0.45,LearningRate: 0.000391
+Iteration: 6, Loss: 41.7813, Time: 27.39s, Accuracy Train: 0.48, Accuracy Test: 0.45,LearningRate: 0.000391
+Iteration: 7, Loss: 41.7996, Time: 27.56s, Accuracy Train: 0.43, Accuracy Test: 0.42,LearningRate: 0.000391
+Iteration: 8, Loss: 41.6313, Time: 27.55s, Accuracy Train: 0.43, Accuracy Test: 0.48,LearningRate: 0.000391
+Iteration: 9, Loss: 41.6070, Time: 27.40s, Accuracy Train: 0.48, Accuracy Test: 0.47,LearningRate: 0.000391
+Iteration: 10, Loss: 41.5252, Time: 27.57s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.000391
+Epoch time: 275.02 seconds
+Epoch: 7
+Iteration: 1, Loss: 41.7069, Time: 28.07s, Accuracy Train: 0.45, Accuracy Test: 0.42,LearningRate: 0.000195
+Iteration: 2, Loss: 41.8431, Time: 28.08s, Accuracy Train: 0.47, Accuracy Test: 0.50,LearningRate: 0.000195
+Iteration: 3, Loss: 41.6799, Time: 27.36s, Accuracy Train: 0.47, Accuracy Test: 0.42,LearningRate: 0.000195
+Iteration: 4, Loss: 41.5226, Time: 27.42s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.000195
+Iteration: 5, Loss: 41.6181, Time: 27.44s, Accuracy Train: 0.53, Accuracy Test: 0.42,LearningRate: 0.000195
+Iteration: 6, Loss: 41.8215, Time: 27.48s, Accuracy Train: 0.45, Accuracy Test: 0.43,LearningRate: 0.000195
+Iteration: 7, Loss: 41.6716, Time: 27.50s, Accuracy Train: 0.52, Accuracy Test: 0.43,LearningRate: 0.000098
+Iteration: 8, Loss: 41.6781, Time: 27.49s, Accuracy Train: 0.48, Accuracy Test: 0.50,LearningRate: 0.000098
+Iteration: 9, Loss: 41.8063, Time: 27.57s, Accuracy Train: 0.50, Accuracy Test: 0.43,LearningRate: 0.000098
+Iteration: 10, Loss: 41.9146, Time: 27.72s, Accuracy Train: 0.48, Accuracy Test: 0.50,LearningRate: 0.000098
+Epoch time: 276.13 seconds
+Epoch: 8
+Iteration: 1, Loss: 41.6734, Time: 27.40s, Accuracy Train: 0.47, Accuracy Test: 0.50,LearningRate: 0.000098
+Iteration: 2, Loss: 41.5524, Time: 27.44s, Accuracy Train: 0.53, Accuracy Test: 0.45,LearningRate: 0.000098
+Iteration: 3, Loss: 41.7951, Time: 27.40s, Accuracy Train: 0.47, Accuracy Test: 0.52,LearningRate: 0.000049
+Iteration: 4, Loss: 41.7364, Time: 27.49s, Accuracy Train: 0.55, Accuracy Test: 0.50,LearningRate: 0.000049
+Iteration: 5, Loss: 41.6645, Time: 27.46s, Accuracy Train: 0.47, Accuracy Test: 0.53,LearningRate: 0.000049
+Iteration: 6, Loss: 41.5899, Time: 27.50s, Accuracy Train: 0.50, Accuracy Test: 0.47,LearningRate: 0.000049
+Iteration: 7, Loss: 41.4208, Time: 27.52s, Accuracy Train: 0.50, Accuracy Test: 0.52,LearningRate: 0.000049
+Iteration: 8, Loss: 41.7955, Time: 27.57s, Accuracy Train: 0.45, Accuracy Test: 0.48,LearningRate: 0.000049
+Iteration: 9, Loss: 41.6176, Time: 27.38s, Accuracy Train: 0.48, Accuracy Test: 0.43,LearningRate: 0.000049
+Iteration: 10, Loss: 41.5332, Time: 27.40s, Accuracy Train: 0.45, Accuracy Test: 0.42,LearningRate: 0.000049
+Epoch time: 274.58 seconds
+Epoch: 9
+Iteration: 1, Loss: 41.6912, Time: 27.41s, Accuracy Train: 0.47, Accuracy Test: 0.48,LearningRate: 0.000049
+Iteration: 2, Loss: 41.5676, Time: 27.42s, Accuracy Train: 0.47, Accuracy Test: 0.48,LearningRate: 0.000049
+Iteration: 3, Loss: 41.6676, Time: 27.51s, Accuracy Train: 0.47, Accuracy Test: 0.45,LearningRate: 0.000049
+Iteration: 4, Loss: 41.6963, Time: 27.67s, Accuracy Train: 0.47, Accuracy Test: 0.48,LearningRate: 0.000024
+Iteration: 5, Loss: 41.4951, Time: 27.44s, Accuracy Train: 0.47, Accuracy Test: 0.50,LearningRate: 0.000024
+Iteration: 6, Loss: 41.6019, Time: 27.48s, Accuracy Train: 0.48, Accuracy Test: 0.47,LearningRate: 0.000024
+Iteration: 7, Loss: 41.6472, Time: 27.97s, Accuracy Train: 0.45, Accuracy Test: 0.45,LearningRate: 0.000024
+Iteration: 8, Loss: 41.9160, Time: 27.78s, Accuracy Train: 0.47, Accuracy Test: 0.43,LearningRate: 0.000024
+Iteration: 9, Loss: 41.7218, Time: 27.48s, Accuracy Train: 0.48, Accuracy Test: 0.48,LearningRate: 0.000024
+Iteration: 10, Loss: 41.7062, Time: 27.35s, Accuracy Train: 0.48, Accuracy Test: 0.47,LearningRate: 0.000012
+Epoch time: 275.54 seconds
+Epoch: 10
+Iteration: 1, Loss: 41.8114, Time: 27.71s, Accuracy Train: 0.50, Accuracy Test: 0.43,LearningRate: 0.000012
+Iteration: 2, Loss: 41.6789, Time: 32.69s, Accuracy Train: 0.52, Accuracy Test: 0.47,LearningRate: 0.000012
+Iteration: 3, Loss: 41.5526, Time: 29.38s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.000012
+Iteration: 4, Loss: 41.7659, Time: 28.37s, Accuracy Train: 0.48, Accuracy Test: 0.50,LearningRate: 0.000012
+Iteration: 5, Loss: 41.6788, Time: 29.41s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.000012
+Iteration: 6, Loss: 41.6600, Time: 30.68s, Accuracy Train: 0.47, Accuracy Test: 0.52,LearningRate: 0.000006
+Iteration: 7, Loss: 41.8124, Time: 31.37s, Accuracy Train: 0.52, Accuracy Test: 0.48,LearningRate: 0.000006
+Iteration: 8, Loss: 41.6077, Time: 30.10s, Accuracy Train: 0.43, Accuracy Test: 0.47,LearningRate: 0.000006
+Iteration: 9, Loss: 41.6002, Time: 31.01s, Accuracy Train: 0.45, Accuracy Test: 0.48,LearningRate: 0.000006
+Iteration: 10, Loss: 41.8088, Time: 30.82s, Accuracy Train: 0.50, Accuracy Test: 0.48,LearningRate: 0.000006
+Epoch time: 301.52 seconds
+Guardando el modelo entrenado...
+Modelo guardado exitosamente.
+Accuracy10data: 0.4
+Accuracy25data: 0.36
+Accuracy60data: 0.5

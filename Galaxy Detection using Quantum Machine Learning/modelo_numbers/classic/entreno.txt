@@ -1,0 +1,44 @@
+Initial Accuracy: 0.4833
+Training the model...
+Epoch 1/100, Loss: 0.7412, Train Accuracy: 0.4667, Test Accuracy: 0.5000, Time: 0.03s, LR: 0.001000
+Saved improved model with accuracy: 0.5000
+Epoch 2/100, Loss: 0.7404, Train Accuracy: 0.4167, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Epoch 3/100, Loss: 0.7397, Train Accuracy: 0.4500, Test Accuracy: 0.5000, Time: 0.01s, LR: 0.001000
+Epoch 4/100, Loss: 0.7417, Train Accuracy: 0.4000, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Epoch 5/100, Loss: 0.7391, Train Accuracy: 0.4500, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Epoch 6/100, Loss: 0.7371, Train Accuracy: 0.6167, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Epoch 7/100, Loss: 0.7371, Train Accuracy: 0.5333, Test Accuracy: 0.5000, Time: 0.01s, LR: 0.001000
+Epoch 8/100, Loss: 0.7374, Train Accuracy: 0.5500, Test Accuracy: 0.5200, Time: 0.01s, LR: 0.001000
+Saved improved model with accuracy: 0.5200
+Epoch 9/100, Loss: 0.7370, Train Accuracy: 0.5500, Test Accuracy: 0.7400, Time: 0.02s, LR: 0.001000
+Saved improved model with accuracy: 0.7400
+Epoch 10/100, Loss: 0.7349, Train Accuracy: 0.6333, Test Accuracy: 0.6200, Time: 0.01s, LR: 0.001000
+Epoch 11/100, Loss: 0.7343, Train Accuracy: 0.6000, Test Accuracy: 0.5000, Time: 0.01s, LR: 0.001000
+Epoch 12/100, Loss: 0.7330, Train Accuracy: 0.6500, Test Accuracy: 0.7400, Time: 0.01s, LR: 0.001000
+Epoch 13/100, Loss: 0.7258, Train Accuracy: 0.6167, Test Accuracy: 0.5200, Time: 0.01s, LR: 0.001000
+Epoch 14/100, Loss: 0.7228, Train Accuracy: 0.7000, Test Accuracy: 0.7000, Time: 0.01s, LR: 0.001000
+Epoch 15/100, Loss: 0.7294, Train Accuracy: 0.5500, Test Accuracy: 0.6200, Time: 0.01s, LR: 0.001000
+Epoch 16/100, Loss: 0.7149, Train Accuracy: 0.6167, Test Accuracy: 0.7000, Time: 0.01s, LR: 0.001000
+Epoch 17/100, Loss: 0.6983, Train Accuracy: 0.7500, Test Accuracy: 0.6400, Time: 0.01s, LR: 0.001000
+Epoch 18/100, Loss: 0.6909, Train Accuracy: 0.7167, Test Accuracy: 0.7200, Time: 0.01s, LR: 0.001000
+Epoch 19/100, Loss: 0.6699, Train Accuracy: 0.7833, Test Accuracy: 0.9200, Time: 0.01s, LR: 0.001000
+Saved improved model with accuracy: 0.9200
+Epoch 20/100, Loss: 0.6467, Train Accuracy: 0.8167, Test Accuracy: 0.8600, Time: 0.01s, LR: 0.001000
+Epoch 21/100, Loss: 0.5804, Train Accuracy: 0.8667, Test Accuracy: 0.6600, Time: 0.01s, LR: 0.001000
+Epoch 22/100, Loss: 0.5709, Train Accuracy: 0.8000, Test Accuracy: 0.9000, Time: 0.01s, LR: 0.001000
+Epoch 23/100, Loss: 0.5041, Train Accuracy: 0.8333, Test Accuracy: 0.8600, Time: 0.01s, LR: 0.001000
+Epoch 24/100, Loss: 0.4090, Train Accuracy: 0.8833, Test Accuracy: 0.8800, Time: 0.01s, LR: 0.001000
+Epoch 25/100, Loss: 0.4469, Train Accuracy: 0.8500, Test Accuracy: 0.9200, Time: 0.01s, LR: 0.001000
+Epoch 26/100, Loss: 0.4185, Train Accuracy: 0.8667, Test Accuracy: 0.6200, Time: 0.01s, LR: 0.001000
+Epoch 27/100, Loss: 0.3586, Train Accuracy: 0.8167, Test Accuracy: 0.8600, Time: 0.01s, LR: 0.001000
+Epoch 28/100, Loss: 0.2639, Train Accuracy: 0.9333, Test Accuracy: 0.8000, Time: 0.01s, LR: 0.001000
+Epoch 29/100, Loss: 0.4196, Train Accuracy: 0.8167, Test Accuracy: 0.9000, Time: 0.01s, LR: 0.001000
+Epoch 30/100, Loss: 0.2743, Train Accuracy: 0.8667, Test Accuracy: 0.9200, Time: 0.01s, LR: 0.001000
+Epoch 31/100, Loss: 0.2711, Train Accuracy: 0.9000, Test Accuracy: 0.9200, Time: 0.01s, LR: 0.001000
+Epoch 32/100, Loss: 0.2448, Train Accuracy: 0.9000, Test Accuracy: 0.8600, Time: 0.01s, LR: 0.001000
+Epoch 33/100, Loss: 0.1877, Train Accuracy: 0.9667, Test Accuracy: 0.9200, Time: 0.01s, LR: 0.001000
+Epoch 34/100, Loss: 0.2107, Train Accuracy: 0.9167, Test Accuracy: 0.9200, Time: 0.01s, LR: 0.001000
+Early stopping triggered after 34 epochs
+Accuracy on 10 test samples: 1.0000
+Accuracy on 25 test samples: 0.8800
+Accuracy on 50 test samples: 0.9200

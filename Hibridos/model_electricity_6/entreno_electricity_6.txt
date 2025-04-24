@@ -1,0 +1,261 @@
+Training new models...
+Training Classical-Quantum Model:
+Epoch 50/5000, Loss: 0.00271904
+Epoch 100/5000, Loss: 0.00005715
+Epoch 150/5000, Loss: 0.00001983
+Epoch 200/5000, Loss: 0.00001670
+Epoch 250/5000, Loss: 0.00001394
+Epoch 300/5000, Loss: 0.00001153
+Epoch 350/5000, Loss: 0.00000948
+Epoch 400/5000, Loss: 0.00000776
+Epoch 450/5000, Loss: 0.00000633
+Epoch 500/5000, Loss: 0.00000516
+Epoch 550/5000, Loss: 0.00000420
+Epoch 600/5000, Loss: 0.00000342
+Epoch 650/5000, Loss: 0.00000278
+Epoch 700/5000, Loss: 0.00000226
+Epoch 750/5000, Loss: 0.00000184
+Epoch 800/5000, Loss: 0.00001354
+Epoch 850/5000, Loss: 0.00000145
+Epoch 900/5000, Loss: 0.00000140
+Epoch 950/5000, Loss: 0.00000137
+Epoch 1000/5000, Loss: 0.00000133
+Epoch 1050/5000, Loss: 0.00000129
+Epoch 1100/5000, Loss: 0.00000126
+Epoch 1150/5000, Loss: 0.00000122
+Epoch 1200/5000, Loss: 0.00000118
+Epoch 1250/5000, Loss: 0.00000115
+Epoch 1300/5000, Loss: 0.00000111
+Epoch 1350/5000, Loss: 0.00000108
+Epoch 1400/5000, Loss: 0.00000104
+Epoch 1450/5000, Loss: 0.00000101
+Epoch 1500/5000, Loss: 0.00000097
+Epoch 1550/5000, Loss: 0.00000094
+Epoch 1600/5000, Loss: 0.00000091
+Epoch 1650/5000, Loss: 0.00000088
+Epoch 1700/5000, Loss: 0.00000084
+Epoch 1750/5000, Loss: 0.00000081
+Epoch 1800/5000, Loss: 0.00000078
+Epoch 1850/5000, Loss: 0.00000076
+Epoch 1900/5000, Loss: 0.00000073
+Epoch 1950/5000, Loss: 0.00000070
+Epoch 2000/5000, Loss: 0.00000067
+Epoch 2050/5000, Loss: 0.00000065
+Epoch 2100/5000, Loss: 0.00000062
+Epoch 2150/5000, Loss: 0.00000060
+Epoch 2200/5000, Loss: 0.00000058
+Epoch 2250/5000, Loss: 0.00000056
+Epoch 2300/5000, Loss: 0.00000054
+Epoch 2350/5000, Loss: 0.00000052
+Epoch 2400/5000, Loss: 0.00000050
+Epoch 2450/5000, Loss: 0.00000048
+Epoch 2500/5000, Loss: 0.00000046
+Epoch 2550/5000, Loss: 0.00000044
+Epoch 2600/5000, Loss: 0.00000043
+Epoch 2650/5000, Loss: 0.00000041
+Epoch 2700/5000, Loss: 0.00000040
+Epoch 2750/5000, Loss: 0.00000038
+Epoch 2800/5000, Loss: 0.00000037
+Epoch 2850/5000, Loss: 0.00000036
+Epoch 2900/5000, Loss: 0.00000034
+Epoch 2950/5000, Loss: 0.00000033
+Epoch 3000/5000, Loss: 0.00000032
+Epoch 3050/5000, Loss: 0.00000031
+Epoch 3100/5000, Loss: 0.00000030
+Epoch 3150/5000, Loss: 0.00000029
+Epoch 3200/5000, Loss: 0.00000028
+Epoch 3250/5000, Loss: 0.00000027
+Epoch 3300/5000, Loss: 0.00000026
+Epoch 3350/5000, Loss: 0.00000025
+Epoch 3400/5000, Loss: 0.00000024
+Epoch 3450/5000, Loss: 0.00000024
+Epoch 3500/5000, Loss: 0.00000023
+Epoch 3550/5000, Loss: 0.00000022
+Epoch 3600/5000, Loss: 0.00000022
+Epoch 3650/5000, Loss: 0.00000021
+Epoch 3700/5000, Loss: 0.00000020
+Epoch 3750/5000, Loss: 0.00000020
+Epoch 3800/5000, Loss: 0.00000019
+Epoch 3850/5000, Loss: 0.00000019
+Epoch 3900/5000, Loss: 0.00000018
+Epoch 3950/5000, Loss: 0.00000017
+Epoch 4000/5000, Loss: 0.00000017
+Epoch 4050/5000, Loss: 0.00000016
+Epoch 4100/5000, Loss: 0.00000016
+Epoch 4150/5000, Loss: 0.00000016
+Epoch 4200/5000, Loss: 0.00000015
+Epoch 4250/5000, Loss: 0.00000015
+Epoch 4300/5000, Loss: 0.00000014
+Epoch 4350/5000, Loss: 0.00000014
+Epoch 4400/5000, Loss: 0.00000014
+Epoch 4450/5000, Loss: 0.00000014
+Epoch 4500/5000, Loss: 0.00000013
+Epoch 4550/5000, Loss: 0.00000013
+Epoch 4600/5000, Loss: 0.00000013
+Epoch 4650/5000, Loss: 0.00000013
+Epoch 4700/5000, Loss: 0.00000013
+Epoch 4750/5000, Loss: 0.00000012
+Epoch 4800/5000, Loss: 0.00000012
+Epoch 4850/5000, Loss: 0.00000012
+Epoch 4900/5000, Loss: 0.00000012
+Epoch 4950/5000, Loss: 0.00000012
+Epoch 5000/5000, Loss: 0.00000012
+Training Classical-Quantum Model took 1510.82 seconds
+
+Training Quantum-Classical Model:
+Epoch 50/5000, Loss: 0.00519167
+Epoch 100/5000, Loss: 0.00001346
+Epoch 150/5000, Loss: 0.00000689
+Epoch 200/5000, Loss: 0.00000682
+Epoch 250/5000, Loss: 0.00000682
+Epoch 300/5000, Loss: 0.00000682
+Epoch 350/5000, Loss: 0.00000682
+Epoch 400/5000, Loss: 0.00000682
+Epoch 450/5000, Loss: 0.00000682
+Epoch 500/5000, Loss: 0.00000682
+Epoch 550/5000, Loss: 0.00000682
+Epoch 600/5000, Loss: 0.00000682
+Epoch 650/5000, Loss: 0.00000682
+Epoch 700/5000, Loss: 0.00000682
+Epoch 750/5000, Loss: 0.00000682
+Epoch 800/5000, Loss: 0.00000682
+Epoch 850/5000, Loss: 0.00000682
+Epoch 900/5000, Loss: 0.00000682
+Epoch 950/5000, Loss: 0.00000682
+Epoch 1000/5000, Loss: 0.00000682
+Epoch 1050/5000, Loss: 0.00000682
+Epoch 1100/5000, Loss: 0.00000682
+Epoch 1150/5000, Loss: 0.00000682
+Epoch 1200/5000, Loss: 0.00000682
+Epoch 1250/5000, Loss: 0.00000682
+Epoch 1300/5000, Loss: 0.00000682
+Epoch 1350/5000, Loss: 0.00000682
+Epoch 1400/5000, Loss: 0.00000682
+Epoch 1450/5000, Loss: 0.00000682
+Epoch 1500/5000, Loss: 0.00000682
+Epoch 1550/5000, Loss: 0.00000682
+Epoch 1600/5000, Loss: 0.00000682
+Epoch 1650/5000, Loss: 0.00000682
+Epoch 1700/5000, Loss: 0.00000682
+Epoch 1750/5000, Loss: 0.00000682
+Epoch 1800/5000, Loss: 0.00000682
+Epoch 1850/5000, Loss: 0.00000682
+Epoch 1900/5000, Loss: 0.00000682
+Epoch 1950/5000, Loss: 0.00000682
+Epoch 2000/5000, Loss: 0.00000682
+Epoch 2050/5000, Loss: 0.00000682
+Epoch 2100/5000, Loss: 0.00000682
+Epoch 2150/5000, Loss: 0.00000682
+Epoch 2200/5000, Loss: 0.00000682
+Epoch 2250/5000, Loss: 0.00000682
+Epoch 2300/5000, Loss: 0.00000682
+Epoch 2350/5000, Loss: 0.00000682
+Epoch 2400/5000, Loss: 0.00000682
+Epoch 2450/5000, Loss: 0.00000682
+Epoch 2500/5000, Loss: 0.00000682
+Epoch 2550/5000, Loss: 0.00000682
+Epoch 2600/5000, Loss: 0.00000682
+Epoch 2650/5000, Loss: 0.00000682
+Epoch 2700/5000, Loss: 0.00000682
+Epoch 2750/5000, Loss: 0.00000682
+Epoch 2800/5000, Loss: 0.00000682
+Epoch 2850/5000, Loss: 0.00000682
+Epoch 2900/5000, Loss: 0.00000682
+Epoch 2950/5000, Loss: 0.00000682
+Epoch 3000/5000, Loss: 0.00000682
+Epoch 3050/5000, Loss: 0.00000682
+Epoch 3100/5000, Loss: 0.00000682
+Epoch 3150/5000, Loss: 0.00000682
+Epoch 3200/5000, Loss: 0.00000682
+Epoch 3250/5000, Loss: 0.00000682
+Epoch 3300/5000, Loss: 0.00000682
+Epoch 3350/5000, Loss: 0.00000682
+Epoch 3400/5000, Loss: 0.00000682
+Epoch 3450/5000, Loss: 0.00000682
+Epoch 3500/5000, Loss: 0.00000682
+Epoch 3550/5000, Loss: 0.00000682
+Epoch 3600/5000, Loss: 0.00000682
+Epoch 3650/5000, Loss: 0.00000682
+Epoch 3700/5000, Loss: 0.00000682
+Epoch 3750/5000, Loss: 0.00000682
+Epoch 3800/5000, Loss: 0.00000682
+Epoch 3850/5000, Loss: 0.00000682
+Epoch 3900/5000, Loss: 0.00000682
+Epoch 3950/5000, Loss: 0.00000682
+Epoch 4000/5000, Loss: 0.00000682
+Epoch 4050/5000, Loss: 0.00000682
+Epoch 4100/5000, Loss: 0.00000682
+Epoch 4150/5000, Loss: 0.00000682
+Epoch 4200/5000, Loss: 0.00000682
+Epoch 4250/5000, Loss: 0.00000682
+Epoch 4300/5000, Loss: 0.00000682
+Epoch 4350/5000, Loss: 0.00000682
+Epoch 4400/5000, Loss: 0.00000682
+Epoch 4450/5000, Loss: 0.00000682
+Epoch 4500/5000, Loss: 0.00000682
+Epoch 4550/5000, Loss: 0.00000682
+Epoch 4600/5000, Loss: 0.00000682
+Epoch 4650/5000, Loss: 0.00000682
+Epoch 4700/5000, Loss: 0.00000682
+Epoch 4750/5000, Loss: 0.00000682
+Epoch 4800/5000, Loss: 0.00000682
+Epoch 4850/5000, Loss: 0.00000682
+Epoch 4900/5000, Loss: 0.00000682
+Epoch 4950/5000, Loss: 0.00000682
+Epoch 5000/5000, Loss: 0.00000682
+Training Quantum-Classical Model took 1438.81 seconds
+
+Training Classical Model:
+Epoch 50/5000, Loss: 0.00000000
+Early stopping at epoch 50 with loss 0.00000000
+Training Classical Model took 0.02 seconds
+Saving models...
+Models saved successfully!
+
+Classical-Quantum Model Test MSE: 0.0000
+Classical-Quantum Model Test MAE: 0.0003
+Classical-Quantum Model Accuracy (+-0.001 margin): 96.70%
+Quantum-Classical Model Test MSE: 0.0000
+Quantum-Classical Model Test MAE: 0.0022
+Quantum-Classical Model Accuracy (+-0.001 margin): 19.60%
+Classical Model Test MSE: 0.0000
+Classical Model Test MAE: 0.0000
+Classical Model Accuracy (+-0.001 margin): 100.00%
+
+Model Comparison:
+Classical model performs best with 100.00% accuracy
+
+Detailed Electricity Bill Prediction Comparison:
+Index | kWh      | True $   | CQ Pred  | QC Pred  | Classical | CQ Acc?      | QC Acc?      | Class Acc?  
+---------------------------------------------------------------------------------------------------------
+0     | 771.2    | 125.69   | 125.73   | 126.3    | 125.68   | Yes          | No           | Yes         
+1     | 374.4    | 66.17    | 66.16    | 65.66    | 66.17    | Yes          | No           | Yes         
+2     | 68.9     | 20.34    | 20.25    | 20.57    | 20.35    | Yes          | No           | Yes         
+3     | 77.3     | 21.6     | 21.64    | 21.75    | 21.61    | Yes          | Yes          | Yes         
+4     | 104.2    | 25.64    | 25.83    | 25.62    | 25.65    | Yes          | Yes          | Yes         
+5     | 840.4    | 136.07   | 136.08   | 136.46   | 136.06   | Yes          | No           | Yes         
+6     | 910.7    | 146.6    | 146.57   | 146.64   | 146.59   | Yes          | Yes          | Yes         
+7     | 122.8    | 28.42    | 28.46    | 28.19    | 28.43    | Yes          | No           | Yes         
+8     | 235.9    | 45.39    | 45.38    | 44.67    | 45.39    | Yes          | No           | Yes         
+9     | 165.5    | 34.83    | 34.84    | 34.31    | 34.84    | Yes          | No           | Yes         
+10    | 186.3    | 37.95    | 37.84    | 37.39    | 37.96    | Yes          | No           | Yes         
+11    | 837.5    | 135.62   | 135.57   | 136.06   | 135.62   | Yes          | No           | Yes         
+12    | 332.1    | 59.82    | 59.9     | 59.27    | 59.83    | Yes          | No           | Yes         
+13    | 311.4    | 56.72    | 56.74    | 56.09    | 56.72    | Yes          | No           | Yes         
+14    | 227.4    | 44.11    | 44.08    | 43.49    | 44.12    | Yes          | No           | Yes         
+15    | 607.9    | 101.18   | 101.38   | 101.54   | 101.18   | Yes          | No           | Yes         
+16    | 379.3    | 66.9     | 66.9     | 66.43    | 66.9     | Yes          | No           | Yes         
+17    | 744.2    | 121.64   | 121.62   | 122.3    | 121.63   | Yes          | No           | Yes         
+18    | 205.6    | 40.84    | 40.86    | 40.23    | 40.84    | Yes          | No           | Yes         
+19    | 787.8    | 128.17   | 128.17   | 128.77   | 128.16   | Yes          | No           | Yes         
+
+CQ Model: 967/1000 predictions within +$0.20 margin (96.70%)
+QC Model: 196/1000 predictions within +$0.20 margin (19.60%)
+Classical Model: 1000/1000 predictions within +$0.20 margin (100.00%)
+
+Reference: Cost = 0.15 * kWh + 10
+Sanity check: For mean usage of 501.58 kWh, expected bill is $85.24
+Mean true bill in test data: $85.24
+
+[Done] exited with code=0 in 2968.846 seconds
+

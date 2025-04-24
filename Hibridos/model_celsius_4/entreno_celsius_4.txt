@@ -1,0 +1,258 @@
+Training new models...
+Training Classical-Quantum Model:
+Epoch 20/1500, Loss: 17.447886
+Epoch 40/1500, Loss: 3.496381
+Epoch 60/1500, Loss: 0.721966
+Epoch 80/1500, Loss: 0.148815
+Epoch 100/1500, Loss: 1.161931
+Epoch 120/1500, Loss: 0.180213
+Epoch 140/1500, Loss: 0.086027
+Epoch 160/1500, Loss: 1.258008
+Epoch 180/1500, Loss: 0.268725
+Epoch 200/1500, Loss: 0.108844
+Epoch 220/1500, Loss: 303.975342
+Epoch 240/1500, Loss: 171.171036
+Epoch 260/1500, Loss: 10.414783
+Epoch 280/1500, Loss: 1.425019
+Epoch 300/1500, Loss: 0.607260
+Epoch 320/1500, Loss: 0.362140
+Epoch 340/1500, Loss: 0.254032
+Epoch 360/1500, Loss: 0.213952
+Epoch 380/1500, Loss: 0.187490
+Epoch 400/1500, Loss: 0.165616
+Epoch 420/1500, Loss: 0.147304
+Epoch 440/1500, Loss: 0.131888
+Epoch 460/1500, Loss: 0.123842
+Epoch 480/1500, Loss: 0.117713
+Epoch 500/1500, Loss: 0.111997
+Epoch 520/1500, Loss: 0.106660
+Epoch 540/1500, Loss: 0.101680
+Epoch 560/1500, Loss: 0.098742
+Epoch 580/1500, Loss: 0.096471
+Epoch 600/1500, Loss: 0.094256
+Epoch 620/1500, Loss: 0.092097
+Epoch 640/1500, Loss: 0.089992
+Epoch 660/1500, Loss: 0.088654
+Epoch 680/1500, Loss: 0.087634
+Epoch 700/1500, Loss: 0.086620
+Epoch 720/1500, Loss: 0.085609
+Epoch 740/1500, Loss: 0.084606
+Epoch 760/1500, Loss: 0.083608
+Epoch 780/1500, Loss: 0.082618
+Epoch 800/1500, Loss: 0.081634
+Epoch 820/1500, Loss: 0.080659
+Epoch 840/1500, Loss: 0.079693
+Epoch 860/1500, Loss: 0.078735
+Epoch 880/1500, Loss: 0.077786
+Epoch 900/1500, Loss: 0.076848
+Epoch 920/1500, Loss: 0.075919
+Epoch 940/1500, Loss: 0.075001
+Epoch 960/1500, Loss: 0.074094
+Epoch 980/1500, Loss: 0.073198
+Epoch 1000/1500, Loss: 0.072314
+Epoch 1020/1500, Loss: 0.071439
+Epoch 1040/1500, Loss: 0.070578
+Epoch 1060/1500, Loss: 0.069727
+Epoch 1080/1500, Loss: 0.068889
+Epoch 1100/1500, Loss: 0.068062
+Epoch 1120/1500, Loss: 0.067249
+Epoch 1140/1500, Loss: 0.066447
+Epoch 1160/1500, Loss: 0.065657
+Epoch 1180/1500, Loss: 0.064879
+Epoch 1200/1500, Loss: 0.064114
+Epoch 1220/1500, Loss: 0.063361
+Epoch 1240/1500, Loss: 0.062621
+Epoch 1260/1500, Loss: 0.061893
+Epoch 1280/1500, Loss: 0.061176
+Epoch 1300/1500, Loss: 0.060471
+Epoch 1320/1500, Loss: 0.059780
+Epoch 1340/1500, Loss: 0.059099
+Epoch 1360/1500, Loss: 0.058431
+Epoch 1380/1500, Loss: 0.057774
+Epoch 1400/1500, Loss: 0.057129
+Epoch 1420/1500, Loss: 0.056496
+Epoch 1440/1500, Loss: 0.055874
+Epoch 1460/1500, Loss: 0.055262
+Epoch 1480/1500, Loss: 0.054662
+Epoch 1500/1500, Loss: 0.054073
+Training Classical-Quantum Model took 301.31 seconds
+
+Training Quantum-Classical Model:
+Epoch 20/1500, Loss: 69.192162
+Epoch 40/1500, Loss: 40.793968
+Epoch 60/1500, Loss: 0.318876
+Epoch 80/1500, Loss: 0.409612
+Epoch 100/1500, Loss: 0.125254
+Epoch 120/1500, Loss: 0.561998
+Epoch 140/1500, Loss: 0.062432
+Epoch 160/1500, Loss: 0.038139
+Epoch 180/1500, Loss: 0.039115
+Epoch 200/1500, Loss: 0.037413
+Epoch 220/1500, Loss: 0.036525
+Epoch 240/1500, Loss: 0.036555
+Epoch 260/1500, Loss: 2.310110
+Epoch 280/1500, Loss: 227.947113
+Epoch 300/1500, Loss: 275.647400
+Epoch 320/1500, Loss: 20.161392
+Epoch 340/1500, Loss: 0.285538
+Epoch 360/1500, Loss: 0.294406
+Epoch 380/1500, Loss: 0.038800
+Epoch 400/1500, Loss: 0.036774
+Epoch 420/1500, Loss: 0.036362
+Epoch 440/1500, Loss: 0.036281
+Epoch 460/1500, Loss: 0.036255
+Epoch 480/1500, Loss: 0.036220
+Epoch 500/1500, Loss: 0.036194
+Epoch 520/1500, Loss: 0.036169
+Epoch 540/1500, Loss: 0.036146
+Epoch 560/1500, Loss: 0.036125
+Epoch 580/1500, Loss: 0.036104
+Epoch 600/1500, Loss: 0.036085
+Epoch 620/1500, Loss: 0.036067
+Epoch 640/1500, Loss: 0.036050
+Epoch 660/1500, Loss: 0.036034
+Epoch 680/1500, Loss: 0.036019
+Epoch 700/1500, Loss: 0.036005
+Epoch 720/1500, Loss: 0.035991
+Epoch 740/1500, Loss: 0.035979
+Epoch 760/1500, Loss: 0.035967
+Epoch 780/1500, Loss: 0.035956
+Epoch 800/1500, Loss: 0.035946
+Epoch 820/1500, Loss: 0.035936
+Epoch 840/1500, Loss: 0.035927
+Epoch 860/1500, Loss: 0.035918
+Epoch 880/1500, Loss: 0.035910
+Epoch 900/1500, Loss: 0.035902
+Epoch 920/1500, Loss: 0.035894
+Epoch 940/1500, Loss: 0.035887
+Epoch 960/1500, Loss: 0.035880
+Epoch 980/1500, Loss: 0.035874
+Epoch 1000/1500, Loss: 0.035868
+Epoch 1020/1500, Loss: 0.035862
+Epoch 1040/1500, Loss: 0.035856
+Epoch 1060/1500, Loss: 0.035851
+Epoch 1080/1500, Loss: 0.035845
+Epoch 1100/1500, Loss: 0.035840
+Epoch 1120/1500, Loss: 0.035835
+Epoch 1140/1500, Loss: 0.036007
+Epoch 1160/1500, Loss: 6.848256
+Epoch 1180/1500, Loss: 3.832592
+Epoch 1200/1500, Loss: 0.057280
+Epoch 1220/1500, Loss: 0.083973
+Epoch 1240/1500, Loss: 0.036858
+Epoch 1260/1500, Loss: 0.036640
+Epoch 1280/1500, Loss: 0.036601
+Epoch 1300/1500, Loss: 0.036586
+Epoch 1320/1500, Loss: 0.036577
+Epoch 1340/1500, Loss: 0.036572
+Epoch 1360/1500, Loss: 0.036569
+Epoch 1380/1500, Loss: 0.036565
+Epoch 1400/1500, Loss: 0.036561
+Epoch 1420/1500, Loss: 0.036557
+Epoch 1440/1500, Loss: 0.036554
+Epoch 1460/1500, Loss: 0.036552
+Epoch 1480/1500, Loss: 0.036550
+Epoch 1500/1500, Loss: 0.036548
+Training Quantum-Classical Model took 280.36 seconds
+
+Training Classical Model:
+Epoch 20/1500, Loss: 893480320.000000
+Epoch 40/1500, Loss: 0.030567
+Epoch 60/1500, Loss: 0.001775
+Epoch 80/1500, Loss: 0.000103
+Epoch 100/1500, Loss: 0.000006
+Epoch 120/1500, Loss: 0.000000
+Epoch 140/1500, Loss: 0.000000
+Early stopping at epoch 140 with loss 0.00000002
+Training Classical Model took 0.03 seconds
+Saving models...
+Models saved successfully!
+
+Classical-Quantum Model Test MSE: 0.0666
+Classical-Quantum Model Test MAE: 0.1889
+Classical-Quantum Model Accuracy (+-0.2 margin): 64.60%
+Quantum-Classical Model Test MSE: 0.0325
+Quantum-Classical Model Test MAE: 0.1574
+Quantum-Classical Model Accuracy (+-0.2 margin): 65.40%
+Classical Model Test MSE: 0.0000
+Classical Model Test MAE: 0.0001
+Classical Model Accuracy (+-0.2 margin): 100.00%
+
+Model Comparison:
+Classical model performs best with 100.00% accuracy
+
+Detailed Temperature Prediction Comparison:
+Index | F        | True C   | CQ Pred  | QC Pred  | Classical | CQ Acc?      | QC Acc?      | Class Acc?  
+---------------------------------------------------------------------------------------------------------
+0     | 77.1     | 25.07    | 24.91    | 25.29    | 25.07    | Yes          | No           | Yes         
+1     | 37.4     | 3.02     | 2.88     | 2.86     | 3.02     | Yes          | Yes          | Yes         
+2     | 6.9      | -13.95   | -14.23   | -13.89   | -13.95   | No           | Yes          | Yes         
+3     | 7.7      | -13.48   | -13.55   | -13.41   | -13.48   | Yes          | Yes          | Yes         
+4     | 10.4     | -11.99   | -11.57   | -12.0    | -11.99   | No           | Yes          | Yes         
+5     | 84.0     | 28.91    | 28.59    | 29.04    | 28.91    | No           | Yes          | Yes         
+6     | 91.1     | 32.82    | 32.87    | 32.7     | 32.82    | Yes          | Yes          | Yes         
+7     | 12.3     | -10.95   | -10.78   | -11.04   | -10.95   | Yes          | Yes          | Yes         
+8     | 23.6     | -4.67    | -4.85    | -4.92    | -4.67    | Yes          | No           | Yes         
+9     | 16.6     | -8.58    | -8.48    | -8.77    | -8.58    | Yes          | Yes          | Yes         
+10    | 18.6     | -7.43    | -7.76    | -7.64    | -7.43    | No           | No           | Yes         
+11    | 83.7     | 28.75    | 28.56    | 28.84    | 28.75    | Yes          | Yes          | Yes         
+12    | 33.2     | 0.67     | 1.13     | 0.47     | 0.67     | No           | No           | Yes         
+13    | 31.1     | -0.48    | -0.28    | -0.69    | -0.48    | Yes          | No           | Yes         
+14    | 22.7     | -5.14    | -5.17    | -5.36    | -5.14    | Yes          | No           | Yes         
+15    | 60.8     | 15.99    | 15.84    | 16.15    | 15.99    | Yes          | Yes          | Yes         
+16    | 37.9     | 3.29     | 2.87     | 3.13     | 3.29     | No           | Yes          | Yes         
+17    | 74.4     | 23.57    | 23.73    | 23.77    | 23.57    | Yes          | Yes          | Yes         
+18    | 20.6     | -6.36    | -6.17    | -6.58    | -6.36    | Yes          | No           | Yes         
+19    | 78.8     | 25.99    | 26.16    | 26.18    | 25.99    | Yes          | Yes          | Yes         
+
+CQ Model: 646/1000 predictions within +-0.2 margin (64.60%)
+QC Model: 654/1000 predictions within +-0.2 margin (65.40%)
+Classical Model: 1000/1000 predictions within +-0.2 margin (100.00%)
+
+Reference: C = (F - 32) * 5/9
+
+Loading existing models...
+Models loaded successfully!
+
+Classical-Quantum Model Test MSE: 0.0729
+Classical-Quantum Model Test MAE: 0.1933
+Classical-Quantum Model Accuracy (+-0.1 margin): 39.60%
+Quantum-Classical Model Test MSE: 0.0337
+Quantum-Classical Model Test MAE: 0.1600
+Quantum-Classical Model Accuracy (+-0.1 margin): 27.40%
+Classical Model Test MSE: 0.0000
+Classical Model Test MAE: 0.0001
+Classical Model Accuracy (+-0.1 margin): 100.00%
+
+Model Comparison:
+Classical model performs best with 100.00% accuracy
+
+Detailed Temperature Prediction Comparison:
+Index | F        | True C   | CQ Pred  | QC Pred  | Classical | CQ Acc?      | QC Acc?      | Class Acc?  
+---------------------------------------------------------------------------------------------------------
+0     | 18.3     | -7.59    | -7.46    | -7.79    | -7.59    | No           | No           | Yes         
+1     | 78.0     | 25.54    | 25.69    | 25.71    | 25.54    | No           | No           | Yes         
+2     | 59.7     | 15.38    | 15.22    | 15.5     | 15.38    | No           | No           | Yes         
+3     | 44.6     | 6.99     | 6.83     | 6.92     | 6.99     | No           | Yes          | Yes         
+4     | 10.0     | -12.22   | -12.18   | -12.27   | -12.22   | Yes          | Yes          | Yes         
+5     | 45.9     | 7.74     | 7.68     | 7.68     | 7.74     | Yes          | Yes          | Yes         
+6     | 33.4     | 0.76     | 1.21     | 0.56     | 0.76     | No           | No           | Yes         
+7     | 14.3     | -9.84    | -9.92    | -9.99    | -9.84    | Yes          | No           | Yes         
+8     | 65.1     | 18.38    | 18.05    | 18.56    | 18.38    | No           | No           | Yes         
+9     | 5.6      | -14.64   | -15.29   | -14.58   | -14.64   | No           | Yes          | Yes         
+10    | 72.2     | 22.33    | 22.41    | 22.56    | 22.33    | Yes          | No           | Yes         
+11    | 93.9     | 34.36    | 34.75    | 34.17    | 34.36    | No           | No           | Yes         
+12    | 0.1      | -17.73   | -17.07   | -17.42   | -17.73   | No           | No           | Yes         
+13    | 99.2     | 37.35    | 36.46    | 36.93    | 37.34    | No           | No           | Yes         
+14    | 61.7     | 16.53    | 16.34    | 16.68    | 16.53    | No           | No           | Yes         
+15    | 61.2     | 16.2     | 16.03    | 16.39    | 16.2     | No           | No           | Yes         
+16    | 0.7      | -17.39   | -17.03   | -17.1    | -17.38   | No           | No           | Yes         
+17    | 2.3      | -16.5    | -16.68   | -16.25   | -16.5    | No           | No           | Yes         
+18    | 52.5     | 11.38    | 11.3     | 11.42    | 11.38    | Yes          | Yes          | Yes         
+19    | 40.0     | 4.44     | 4.55     | 4.31     | 4.44     | No           | No           | Yes         
+
+CQ Model: 396/1000 predictions within +-0.1 margin (39.60%)
+QC Model: 274/1000 predictions within +-0.1 margin (27.40%)
+Classical Model: 1000/1000 predictions within +-0.1 margin (100.00%)
+
+Reference: C = (F - 32) * 5/9

@@ -1,0 +1,19 @@
+Training new models...
+Training Classical-Quantum Model:
+Epoch 1/2, Loss: 584023.875000
+Epoch 2/2, Loss: 568741.437500
+Training Classical-Quantum Model took 83.47 seconds
+
+Training Quantum-Classical Model:
+Epoch 1/2, Loss: 583561.500000
+Epoch 2/2, Loss: 568679.250000
+Training Quantum-Classical Model took 145.13 seconds
+
+Training Classical Model:
+Epoch 1/2, Loss: 581525.187500
+Epoch 2/2, Loss: 2043361.000000
+Training Classical Model took 0.00 seconds
+Saving models...
+Models saved successfully!
+
+88s

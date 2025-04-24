@@ -1,0 +1,67 @@
+Initial Accuracy: 0.5000
+Training the model...
+Epoch 1/100, Loss: 0.7391, Train Accuracy: 0.5000, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Saved improved model with accuracy: 0.5000
+Epoch 2/100, Loss: 0.7369, Train Accuracy: 0.5000, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Epoch 3/100, Loss: 0.7264, Train Accuracy: 0.5333, Test Accuracy: 0.5000, Time: 0.02s, LR: 0.001000
+Epoch 4/100, Loss: 0.7169, Train Accuracy: 0.7667, Test Accuracy: 0.6000, Time: 0.01s, LR: 0.001000
+Saved improved model with accuracy: 0.6000
+Epoch 5/100, Loss: 0.7005, Train Accuracy: 0.8667, Test Accuracy: 0.7000, Time: 0.01s, LR: 0.001000
+Saved improved model with accuracy: 0.7000
+Epoch 6/100, Loss: 0.6609, Train Accuracy: 0.9333, Test Accuracy: 0.7000, Time: 0.02s, LR: 0.001000
+Epoch 7/100, Loss: 0.6007, Train Accuracy: 0.9333, Test Accuracy: 0.8167, Time: 0.01s, LR: 0.001000
+Saved improved model with accuracy: 0.8167
+Epoch 8/100, Loss: 0.5317, Train Accuracy: 0.9500, Test Accuracy: 0.8167, Time: 0.01s, LR: 0.001000
+Epoch 9/100, Loss: 0.4280, Train Accuracy: 0.9833, Test Accuracy: 0.7667, Time: 0.01s, LR: 0.001000
+Epoch 10/100, Loss: 0.3244, Train Accuracy: 0.9833, Test Accuracy: 0.7667, Time: 0.01s, LR: 0.001000
+Epoch 11/100, Loss: 0.2159, Train Accuracy: 0.9667, Test Accuracy: 0.6667, Time: 0.01s, LR: 0.001000
+Epoch 12/100, Loss: 0.1464, Train Accuracy: 1.0000, Test Accuracy: 0.6833, Time: 0.01s, LR: 0.001000
+Epoch 13/100, Loss: 0.0887, Train Accuracy: 0.9833, Test Accuracy: 0.8000, Time: 0.01s, LR: 0.001000
+Epoch 14/100, Loss: 0.0622, Train Accuracy: 0.9833, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.001000
+Epoch 15/100, Loss: 0.0338, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.001000
+Epoch 16/100, Loss: 0.0148, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 17/100, Loss: 0.0101, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.001000
+Epoch 18/100, Loss: 0.0128, Train Accuracy: 1.0000, Test Accuracy: 0.6500, Time: 0.01s, LR: 0.001000
+Epoch 19/100, Loss: 0.0105, Train Accuracy: 1.0000, Test Accuracy: 0.6833, Time: 0.01s, LR: 0.001000
+Epoch 20/100, Loss: 0.0086, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 21/100, Loss: 0.0043, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.001000
+Epoch 22/100, Loss: 0.0107, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 23/100, Loss: 0.0041, Train Accuracy: 1.0000, Test Accuracy: 0.7833, Time: 0.01s, LR: 0.001000
+Epoch 24/100, Loss: 0.0049, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.001000
+Epoch 25/100, Loss: 0.0068, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 26/100, Loss: 0.0090, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 27/100, Loss: 0.0067, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 28/100, Loss: 0.0021, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 29/100, Loss: 0.0018, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 30/100, Loss: 0.0024, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 31/100, Loss: 0.0022, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 32/100, Loss: 0.0010, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 33/100, Loss: 0.0021, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.001000
+Epoch 34/100, Loss: 0.0015, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 35/100, Loss: 0.0008, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 36/100, Loss: 0.0024, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.02s, LR: 0.001000
+Epoch 37/100, Loss: 0.0011, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.02s, LR: 0.001000
+Epoch 38/100, Loss: 0.0016, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 39/100, Loss: 0.0007, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.02s, LR: 0.001000
+Epoch 40/100, Loss: 0.0006, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.02s, LR: 0.001000
+Epoch 41/100, Loss: 0.0007, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 42/100, Loss: 0.0023, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.02s, LR: 0.001000
+Epoch 43/100, Loss: 0.0005, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 44/100, Loss: 0.0004, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 45/100, Loss: 0.0007, Train Accuracy: 1.0000, Test Accuracy: 0.7500, Time: 0.01s, LR: 0.001000
+Epoch 46/100, Loss: 0.0021, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.001000
+Epoch 47/100, Loss: 0.0005, Train Accuracy: 1.0000, Test Accuracy: 0.6667, Time: 0.01s, LR: 0.001000
+Epoch 48/100, Loss: 0.0011, Train Accuracy: 1.0000, Test Accuracy: 0.6667, Time: 0.01s, LR: 0.001000
+Epoch 49/100, Loss: 0.0010, Train Accuracy: 1.0000, Test Accuracy: 0.7000, Time: 0.01s, LR: 0.001000
+Epoch 50/100, Loss: 0.0007, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.000500
+Epoch 51/100, Loss: 0.0003, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.02s, LR: 0.000500
+Epoch 52/100, Loss: 0.0004, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.000500
+Epoch 53/100, Loss: 0.0003, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.000500
+Epoch 54/100, Loss: 0.0002, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.000500
+Epoch 55/100, Loss: 0.0002, Train Accuracy: 1.0000, Test Accuracy: 0.7167, Time: 0.01s, LR: 0.000500
+Epoch 56/100, Loss: 0.0006, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.000500
+Epoch 57/100, Loss: 0.0001, Train Accuracy: 1.0000, Test Accuracy: 0.7333, Time: 0.01s, LR: 0.000500
+Early stopping triggered after 57 epochs
+Accuracy on 10 test samples: 0.7000
+Accuracy on 25 test samples: 0.7600
+Accuracy on 60 test samples: 0.8167

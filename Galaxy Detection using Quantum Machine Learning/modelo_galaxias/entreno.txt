@@ -1,0 +1,52 @@
+Usando dispositivo: cuda
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+No se encontr� un modelo guardado. Entrenando un nuevo modelo...
+Accuracy: 0.5
+Training the model...
+Epoch: 1
+Iteration: 1, Loss: 39.6865, Time: 28.64s, Accuracy Train: 0.48, Accuracy Test: 0.48,LearningRate: 0.050000
+Iteration: 2, Loss: 38.4787, Time: 28.00s, Accuracy Train: 0.52, Accuracy Test: 0.55,LearningRate: 0.050000
+Iteration: 3, Loss: 38.0392, Time: 32.46s, Accuracy Train: 0.60, Accuracy Test: 0.63,LearningRate: 0.050000
+Iteration: 4, Loss: 37.4393, Time: 31.77s, Accuracy Train: 0.65, Accuracy Test: 0.70,LearningRate: 0.050000
+Iteration: 5, Loss: 37.4428, Time: 31.14s, Accuracy Train: 0.70, Accuracy Test: 0.78,LearningRate: 0.050000
+Iteration: 6, Loss: 37.1649, Time: 32.73s, Accuracy Train: 0.70, Accuracy Test: 0.80,LearningRate: 0.050000
+Iteration: 7, Loss: 37.0596, Time: 30.47s, Accuracy Train: 0.73, Accuracy Test: 0.87,LearningRate: 0.050000
+Iteration: 8, Loss: 36.7844, Time: 28.30s, Accuracy Train: 0.77, Accuracy Test: 0.78,LearningRate: 0.050000
+Iteration: 9, Loss: 36.5425, Time: 27.90s, Accuracy Train: 0.82, Accuracy Test: 0.90,LearningRate: 0.050000
+Iteration: 10, Loss: 36.7748, Time: 27.88s, Accuracy Train: 0.83, Accuracy Test: 0.82,LearningRate: 0.050000
+Epoch time: 299.32 seconds
+Epoch: 2
+Iteration: 1, Loss: 36.6625, Time: 27.78s, Accuracy Train: 0.78, Accuracy Test: 0.82,LearningRate: 0.050000
+Iteration: 2, Loss: 36.7227, Time: 27.91s, Accuracy Train: 0.83, Accuracy Test: 0.88,LearningRate: 0.050000
+Iteration: 3, Loss: 36.6656, Time: 27.90s, Accuracy Train: 0.87, Accuracy Test: 0.92,LearningRate: 0.050000
+Iteration: 4, Loss: 36.6918, Time: 28.00s, Accuracy Train: 0.83, Accuracy Test: 0.90,LearningRate: 0.050000
+Iteration: 5, Loss: 36.2306, Time: 28.10s, Accuracy Train: 0.88, Accuracy Test: 0.93,LearningRate: 0.050000
+Iteration: 6, Loss: 36.4479, Time: 28.91s, Accuracy Train: 0.88, Accuracy Test: 0.90,LearningRate: 0.050000
+Iteration: 7, Loss: 36.5328, Time: 27.92s, Accuracy Train: 0.90, Accuracy Test: 0.88,LearningRate: 0.050000
+Iteration: 8, Loss: 36.1761, Time: 28.25s, Accuracy Train: 0.92, Accuracy Test: 0.92,LearningRate: 0.050000
+Iteration: 9, Loss: 36.2795, Time: 28.00s, Accuracy Train: 0.93, Accuracy Test: 0.93,LearningRate: 0.050000
+Iteration: 10, Loss: 36.3368, Time: 28.00s, Accuracy Train: 0.92, Accuracy Test: 0.95,LearningRate: 0.050000
+Epoch time: 280.77 seconds
+Epoch: 3
+Iteration: 1, Loss: 36.1662, Time: 28.09s, Accuracy Train: 0.97, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 2, Loss: 36.0398, Time: 31.76s, Accuracy Train: 0.93, Accuracy Test: 0.97,LearningRate: 0.050000
+Iteration: 3, Loss: 36.0425, Time: 32.24s, Accuracy Train: 0.92, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 4, Loss: 35.8308, Time: 33.97s, Accuracy Train: 0.95, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 5, Loss: 36.0755, Time: 36.12s, Accuracy Train: 0.98, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 6, Loss: 35.9145, Time: 35.32s, Accuracy Train: 0.98, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 7, Loss: 35.8620, Time: 32.32s, Accuracy Train: 0.98, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 8, Loss: 35.6563, Time: 31.01s, Accuracy Train: 0.98, Accuracy Test: 0.95,LearningRate: 0.050000
+Iteration: 9, Loss: 35.5940, Time: 30.30s, Accuracy Train: 1.00, Accuracy Test: 0.95,LearningRate: 0.050000
+Accuracy reached 100% in epoch 3
+Epoch time: 291.14 seconds
+Guardando el modelo entrenado...
+Modelo guardado exitosamente.
+
+Usando dispositivo: cuda
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+Cargando el modelo existente...
+Modelo cargado exitosamente.
+Accuracy: 0.9833333333333333
+Accuracy10data: 1.0
+Accuracy25data: 1.0
+Accuracy50data: 0.95
