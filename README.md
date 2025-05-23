@@ -2,6 +2,10 @@
 
 Este repositorio contiene una colección de casos prácticos que comparan el rendimiento entre algoritmos de Machine Learning Cuántico (QML) y Machine Learning Clásico (ML) en diferentes dominios y aplicaciones.
 
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 ## Estructura del Repositorio
 
 El repositorio está organizado en varias carpetas principales, cada una enfocada en un tipo específico de aplicación:
